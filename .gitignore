@@ -1,0 +1,24 @@
+# Terraform generated files
+.terraform/
+
+# Terraform state
+*.tfstate
+*.tfstate.*
+
+# Vercel
+.vercel/
+
+# Non-Terraform files
+README.txt
+index.html
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.mp4
+*.mov
+*.avi
+
+# Project metadata
+project.json
